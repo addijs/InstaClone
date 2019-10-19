@@ -1,9 +1,9 @@
 Back-end application using Node.JS for InstaClone project.
 
-**Express**<br>
-Websocket protocol using **socket.io**<br>
-Database: **mongodb** (Using docker container)<br>
-**Multer** (to manage image uploads)<br>
+- **Express**<br>
+- Websocket protocol using **socket.io**<br>
+- Database: **mongodb** (Using docker container)<br>
+- **Multer** (to manage image uploads)<br>
 
 
 In the project directory, you can run:
